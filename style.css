@@ -1,0 +1,18 @@
+body {
+  margin: 0px;
+  padding: 42px 566px;
+}
+.container {
+  height: 860px;
+  padding: 0px 25px;
+}
+
+.col-lg-2{
+  height: 200vh;
+}
+
+@media (min-width: 320px) and (max-width: 1440px) {
+  body {
+    padding: 0px;
+  }
+}

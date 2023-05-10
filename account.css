@@ -1,0 +1,19 @@
+.nav-pills li {
+  background: #d9d9d9;
+  border-radius: 6px;
+}
+
+.nav-pills li a:hover {
+  background: #ebc10c;
+}
+
+.nav-pills .nav-item .nav-link i {
+  color: black;
+}
+.nav-pills .nav-item .nav-link span {
+  color: black;
+}
+
+.tabcontent{
+  display: none;
+}
